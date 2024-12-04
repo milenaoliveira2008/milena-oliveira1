@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cabeçalho{
+    background-color:rgb(228, 100, 100);
+    color:rgb(235, 181, 35);
+    display:flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 20px 0 ;
+    font-size: 50px; }
+    .parte-texto{
+    display: flex;}
+    .texto {font-size: 40px;
+    color:#dfcca3(53, 26, 207);
+    padding: 15px 15px;
+    text-align:left;
+    background-color:rgb(255, 255, 255);}
+    .lista-itens{
+    text-align: center;
+    padding: 16px 0;}
+    .cripto{width: 50%
+    ;height: 50%;}
+    .todos-itens{ display:grid;
+    grid-template-columns: 20% 20% 20% 20%;}
+   .imagem{
+    width: 50%;
+    height: 50%;
+   }
